@@ -1,4 +1,7 @@
 # MeanPortfolio
+[Website](https://dagreatcode.github.io/mean-portfolio/) is already up and running.
+
+[Github](https://github.com/dagreatcode/mean-portfolio) link.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 
